@@ -26,3 +26,5 @@ public class teste {
             "O valor da área do seu Retângulo é " + area + "cm²");
     }
 }
+
+// Programa teste de aparecer caixa de texto na tela.
